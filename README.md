@@ -5,11 +5,7 @@
 
 ## 설치 방법
 
-윈도우:
-
-```sh
-edit autoexec.bat
-```
+윈도우: pytorch 설치 
 
 ## 사용 예제
 
@@ -36,14 +32,6 @@ python tf_lean.py
 
 ```
 test.py
-
-## 개발 환경 설정
-
-모든 개발 의존성 설치 방법과 자동 테스트 슈트 실행 방법을 운영체제 별로 작성합니다.
-
-```sh
-make install
-npm test
 ```
 
 ## 업데이트 내역
@@ -52,6 +40,6 @@ npm test
     * 분류기 제작
 
 ## 정보
- – dusk950223@gmail.com
+ – 이메일: dusk950223@gmail.com
 
 
