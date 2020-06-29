@@ -1,17 +1,19 @@
 # HC3(Historical_Chinese_Characters_classifier)
 
-
-## 고문서 문자 분류기
-
-많은 클래스를 가진 고문서를 학습하기 위해 제작
-
-ResNet과 따로 제작한 네트워크로 시험
+> 많은 클래스를 가진 고문서를 학습하기 위해 제작
 
 
-## 사용법
+## 설치 방법
 
-### 폴더 생성
+윈도우:
 
+```sh
+edit autoexec.bat
+```
+
+## 사용 예제
+
+### folder
 ```
 --img
   -- test
@@ -34,4 +36,22 @@ python tf_lean.py
 
 ```
 test.py
+
+## 개발 환경 설정
+
+모든 개발 의존성 설치 방법과 자동 테스트 슈트 실행 방법을 운영체제 별로 작성합니다.
+
+```sh
+make install
+npm test
 ```
+
+## 업데이트 내역
+
+* 0.0.1
+    * 분류기 제작
+
+## 정보
+ – dusk950223@gmail.com
+
+
