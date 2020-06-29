@@ -1,4 +1,4 @@
-# classifier_many_class_characters
+# HC3(Historical_Chinese_Characters_classifier)
 
 
 ## 고문서 문자 분류기
