@@ -1,4 +1,4 @@
-# HC3(Historical_Chinese_Characters_classifier) 0.0.1
+# HC3(Historical_Chinese_Characters_classifier) 1.0.1
 
 > 많은 클래스를 가진 고문서를 학습하기 위해 제작
 
